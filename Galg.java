@@ -8,11 +8,10 @@
  *
  * @author guy
  */
- //blub
 public class Galg {
+    String woord; 
     public Galg(String s)
     {
-        String woord;
         woord = s;
     }
     
