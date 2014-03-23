@@ -9,7 +9,8 @@
  * @author guy
  */
 public class Galg {
-    String woord; 
+    private String woord; 
+    
     public Galg(String s)
     {
         woord = s;
