@@ -18,6 +18,8 @@ public class Galg {
     
     public Galg()
     {
+        WoordLezer woordlezer = new WoordLezer("woorden.txt");
+        String vraagwoord = 
         // Maakt gebruik van de klasse Woordlezer.
     }
     
