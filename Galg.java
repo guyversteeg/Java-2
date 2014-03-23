@@ -11,7 +11,8 @@
 public class Galg {
     public Galg(String s)
     {
-        
+        String woord;
+        woord = s;
     }
     
     public Galg()
