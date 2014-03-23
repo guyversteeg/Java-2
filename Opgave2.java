@@ -10,6 +10,7 @@ package opgave2;
  *
  * @author guy
  */
+//blubblub
 public class Opgave2 {
     public boolean letterGeraden();
     {
