@@ -8,6 +8,7 @@
  *
  * @author guy
  */
+ //blub
 public class Galg {
     public Galg(String s)
     {
